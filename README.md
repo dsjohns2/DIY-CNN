@@ -1,4 +1,4 @@
-# DIY-CNN
+# Do It Yourself - Convolutional Neural Network
 
 1. Put data mp4 files into videos directory
 
